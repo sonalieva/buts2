@@ -1,0 +1,18 @@
+.logo {
+  margin-right: auto;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.last .imgdiv {
+  width: 25px;
+  height: 25px;
+  margin-bottom: 4px;
+}
+/*# sourceMappingURL=style.css.map */
